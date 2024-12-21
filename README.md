@@ -1,1 +1,2 @@
-- Link Docs: https://docs.google.com/presentation/d/1QJ9LKrWjwmNVpxomS7sHfL0v_IUQbFTvFGg9LmeLDDk/edit#slide=id.g326150df3bd_0_534
+- Link Slide: https://docs.google.com/presentation/d/1QJ9LKrWjwmNVpxomS7sHfL0v_IUQbFTvFGg9LmeLDDk/edit#slide=id.g326150df3bd_0_534
+- Docs: https://drive.google.com/file/d/1WQp9qhHLEfyQ-COKG9bHoLfpG5f3b-49/view?usp=sharing
